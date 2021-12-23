@@ -1,0 +1,58 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://qkzfwzhq:iLomxyw1iz9veiC_XGtVpKTir4ZzKzSg@fanny.db.elephantsql.com/qkzfwzhq",
+            "name": "week4_day3"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "president_classwork",
+            "connectString": "postgres://xtbtefil:WBacJjV_xDi86566B17SpNOY6waQgb0y@fanny.db.elephantsql.com/xtbtefil"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "dvd",
+            "connectString": "postgres://ksdzghua:yhIWnyGRGal2g__4OzpC5UyHbL3kQD0X@fanny.db.elephantsql.com/ksdzghua"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://guzqpynx:8dE0MdwUu0m1jE3XafeEQA3ZWa5f282F@fanny.db.elephantsql.com/guzqpynx",
+            "name": "movie_theater"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://hbwgdbyp:k3ZPFdkKfyXi8ymNujnZpKRyDEavp7fy@fanny.db.elephantsql.com/hbwgdbyp",
+            "name": "dealership"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "car_dealership_wk_4",
+            "connectString": "postgres://maikazdf:q3o08ufBzqlFPA1ceJntRAw0esr1IZlz@castor.db.elephantsql.com/maikazdf"
+        }
+    ]
+}
